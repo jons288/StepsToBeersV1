@@ -11,3 +11,5 @@ This is the inital version of the Android App that will take steps recorded in G
   * [Google - Get Started](https://developers.google.com/fit/android/get-started)
   * [Google - API Key](https://developers.google.com/fit/android/get-api-key)
   * [Oracle - keytool Download](https://www.oracle.com/java/technologies/downloads/)  
+  * [Fit Samples](https://github.com/android/fit-samples) 
+  * 
