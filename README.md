@@ -2,7 +2,7 @@
 
 ## Status
 
-This is the inital version of the Android App that will take steps recorded in Google Fit and tell the user how many beers they have earned!
+This is the initial version of the Android App that will take steps recorded in Google Fit and tell the user how many beers they have earned!
 
 ## Next Steps
 

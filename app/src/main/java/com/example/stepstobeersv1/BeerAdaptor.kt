@@ -40,9 +40,7 @@ class BeerAdaptor(
     override fun onBindViewHolder(holder: BeerViewHolder, position: Int) {
         val curBeer = beers[position]
         holder.itemView.apply{
-
         }
-
     }
 
     override fun getItemCount(): Int {

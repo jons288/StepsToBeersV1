@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">StepsToBeersV1</string>
     <string name="appTitle">Earn those Beers</string>
+    <string name="enter_steps">Enter Steps</string>
+    <string name="drink_beer">Drink Beer</string>
+    <string name="earn_beer">Earn Beer</string>
 </resources>
